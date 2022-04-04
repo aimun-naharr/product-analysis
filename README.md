@@ -1,6 +1,6 @@
-##Headphone_city
+**Headphone city**
 ***
-##https://jade-melomakarona-c26f3d.netlify.app/
+[link]https://jade-melomakarona-c26f3d.netlify.app/
 ***
 A list of features used in the project
 * It has a home page with some customer reviews
