@@ -14,7 +14,7 @@ const Home = () => {
                 <div className='left-section m-2 p-6'>
                     <h1 className='text-6xl font-bold blue-color'>Feel the bass</h1>
                     <h1 className='text-6xl font-bold orange-color'>in your bones</h1>
-                    <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt id sapiente eum blanditiis iusto commodi deleniti laboriosam minus eaque, distinctio quam sit, porro voluptatum accusamus. A exercitationem modi ullam, minima deleniti quas mollitia, iure harum, consequatur impedit natus cum? Excepturi.</p>
+                    <p className='mt-4 text-xl'>Get hooked to the crystal clear audio with our headphones. Designed with casual elegance, choose the color that suits your vibe. You will be lost in your own world.</p>
                 </div>
                 <div className='right-section'>
                     <img src="https://www.gadstyle.com/wp-content/uploads/2021/11/baseus-encok-d02-pro-wireless-bluetooth-headphones-white.jpeg" alt="" />
