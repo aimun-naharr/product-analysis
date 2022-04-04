@@ -1,2 +1,4 @@
 #Headphone_city
-“*” It has home page
+***
+A list of features used in the project
+* It has a home page with some customer reviews
