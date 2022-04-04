@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-
+import './Header.css'
 const Header = () => {
     let activeStyle = {
         textDecoration: "underline"
@@ -10,7 +10,7 @@ const Header = () => {
       let activeClassName = "underline"
     return (
         <div>
-            <nav className='p-4 flex justify-center text-xl font-sans bg-purple-400 text-white'>
+            <nav className='p-4 flex justify-center text-xl font-sans nav-bar text-white'>
             
             <ul className='md:flex'>
             <li className='mr-2'>

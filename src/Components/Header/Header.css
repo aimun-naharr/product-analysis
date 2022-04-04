@@ -1,3 +1,10 @@
-.purple-color{
-color: #9900F0;
+.nav-bar{
+    background-color: #0B3354;
+}
+.nav-bar li:hover{
+    background-color: #ff7000;
+    
+}
+.nav-bar li{
+    padding: 8px;
 }

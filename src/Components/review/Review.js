@@ -8,7 +8,7 @@ const Review = (props) => {
                <div className=''>
                    <img src={image} alt="" />
                </div>
-               <div className='ml-3'>{name}</div>
+               <div className='ml-3 font-semibold'>{name}</div>
            </div>
            <div className='mt-3'>
                <p>{review}</p>
